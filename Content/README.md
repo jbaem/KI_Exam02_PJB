@@ -7,3 +7,5 @@
 [fab] [Easy Input Prompts](https://www.fab.com/ko/listings/c386fea5-e723-488c-abeb-7995157375c8) <br>
 [fab] [Basic Pickups VFX Set](https://www.fab.com/listings/166d8257-d5af-4b8d-bd6c-1ea6d761b07e) <br>
 [fab] [Stylized Sword Trails VFX](https://www.fab.com/listings/bd2ba790-7266-49f3-bb4f-8049f6797c01) <br>
+[fab] [FX Variety Pack](https://www.fab.com/listings/53531e17-369f-4bba-b493-8588f0dec07b) <br>
+[fab] [Free Spline VFX](https://www.fab.com/listings/2b923e61-b02d-4cc9-bd0b-b067c9e6056e) <br>
