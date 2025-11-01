@@ -12,3 +12,4 @@
 
 [fab] [Niagara Slash](https://www.fab.com/ko/listings/9baf4a11-d63a-4d9c-8ee1-bfedfd3eb696) <br>
 [fab] [Simple Particle Burst](https://www.fab.com/ko/listings/c078fc7e-1574-46a0-8fb7-f6f353179b00) <br>
+[fab] [Free Arrow Trail](https://www.fab.com/ko/listings/b8ff3ab4-0e81-4335-bbf0-fea15f6fcdfc) <br>
