@@ -9,3 +9,6 @@
 [fab] [Stylized Sword Trails VFX](https://www.fab.com/listings/bd2ba790-7266-49f3-bb4f-8049f6797c01) <br>
 [fab] [FX Variety Pack](https://www.fab.com/listings/53531e17-369f-4bba-b493-8588f0dec07b) <br>
 [fab] [Free Spline VFX](https://www.fab.com/listings/2b923e61-b02d-4cc9-bd0b-b067c9e6056e) <br>
+
+[fab] [Niagara Slash](https://www.fab.com/ko/listings/9baf4a11-d63a-4d9c-8ee1-bfedfd3eb696) <br>
+[fab] [Simple Particle Burst](https://www.fab.com/ko/listings/c078fc7e-1574-46a0-8fb7-f6f353179b00) <br>
